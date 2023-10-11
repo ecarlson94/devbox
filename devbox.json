@@ -3,7 +3,8 @@
     "ripgrep@latest",
     "fd@latest",
     "neovim@latest",
-    "git@latest"
+    "git@latest",
+    "gh@latest"
   ],
   "shell": {
     "init_hook": [
