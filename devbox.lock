@@ -1,0 +1,85 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "fd@latest": {
+      "last_modified": "2023-09-27T18:02:17Z",
+      "resolved": "github:NixOS/nixpkgs/517501bcf14ae6ec47efd6a17dda0ca8e6d866f9#fd",
+      "source": "devbox-search",
+      "version": "8.7.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/37v4i96ml5hdwzq2j1ka9yc7czyj3w4h-fd-8.7.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/r8nw7dhhv0nhvjx15id743r7kay1anfi-fd-8.7.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/327q46i7msds8vqirm2zlvapvjbfcjzp-fd-8.7.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/mbh33v142i0w92zlia4pw2jn905m0fff-fd-8.7.0"
+        }
+      }
+    },
+    "git@latest": {
+      "last_modified": "2023-10-06T07:35:11Z",
+      "resolved": "github:NixOS/nixpkgs/a2eb207f45e4a14a1e3019d9e3863d1e208e2295#git",
+      "source": "devbox-search",
+      "version": "2.42.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/kwpgj2rpza5i43jmvxx2d6rya5ay92pc-git-2.42.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/l1572f7d81n8wmqdf899kk3kmpdb0amf-git-2.42.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/r7la50prsws136rj6ynj0vp3pwws0yly-git-2.42.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/7smkn8cidx17la9ny5vfvghrwfxwbrny-git-2.42.0"
+        }
+      }
+    },
+    "neovim@latest": {
+      "last_modified": "2023-10-04T02:19:08Z",
+      "resolved": "github:NixOS/nixpkgs/d1c9180c6d1f8fce9469436f48c1cb8180d7087d#neovim",
+      "source": "devbox-search",
+      "version": "0.9.2",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/i5dnk45r3qg8378w2ir28hwxddd9idx4-neovim-0.9.2"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/6vjldy8cj7rkx6pp57rfhbhdwddkvq86-neovim-0.9.2"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/vac9h51x50fmcbpxkyxq1x3asyk7y19a-neovim-0.9.2"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/db2ncymjn3x10yfzzj97xwqvl08x9a70-neovim-0.9.2"
+        }
+      }
+    },
+    "ripgrep@latest": {
+      "last_modified": "2023-09-27T18:02:17Z",
+      "resolved": "github:NixOS/nixpkgs/517501bcf14ae6ec47efd6a17dda0ca8e6d866f9#ripgrep",
+      "source": "devbox-search",
+      "version": "13.0.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/sp9kjwv3w70fmqif654bvvi536nkk1p4-ripgrep-13.0.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/6gd2yc165816xn81grr8q1401jhgk6mj-ripgrep-13.0.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/86sbapczh5mwpsjxjzv0yiyyk7knnjyl-ripgrep-13.0.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/pdi30qh576mpk6bjmixkgvqls481cj15-ripgrep-13.0.0"
+        }
+      }
+    }
+  }
+}
