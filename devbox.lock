@@ -100,6 +100,26 @@
           "store_path": "/nix/store/pdi30qh576mpk6bjmixkgvqls481cj15-ripgrep-13.0.0"
         }
       }
+    },
+    "zsh@latest": {
+      "last_modified": "2023-10-07T15:48:00Z",
+      "resolved": "github:NixOS/nixpkgs/945559664c1dc5836173ee12896ba421d9b37181#zsh",
+      "source": "devbox-search",
+      "version": "5.9",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/plsnpw0blig4nfdvcm2rghgyc7s0xdkw-zsh-5.9"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/a39m01mh9p477i3l475wp82rnb6in460-zsh-5.9"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/142236w6wwly9zn86wm8kc7ivwj437h6-zsh-5.9"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/ay2pg0wlnd8rzh6zhfgqfppb330zp99s-zsh-5.9"
+        }
+      }
     }
   }
 }
