@@ -1,4 +1,8 @@
-# Devbox
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jetpack-io/devbox/main/docs/app/static/img/devbox_logo_dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jetpack-io/devbox/main/docs/app/static/img/devbox_logo_light.svg">
+ <img alt="Devbox logo." src="https://raw.githubusercontent.com/jetpack-io/devbox/main/docs/app/static/img/devbox_logo_light.svg">
+</picture>
 
 Instant, easy, and predictable base dev environment.
 
