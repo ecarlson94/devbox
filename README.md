@@ -20,3 +20,8 @@ Run the following command
 devbox global run dotfiles
 ```
 
+## License
+
+This software is hereby released under an MIT License. That means you can do whatever you want with conditions only requiring preservation of copyright and license notices.
+See [LICENSE](./LICENSE) for details.
+
