@@ -16,7 +16,7 @@
         "echo \"Error: no test specified\" && exit 1"
       ],
       "dotfiles": [
-        "git glone --recursive https://github.com/ecarlson94/dotfiles.git ~/.dotfiles",
+        "git clone --recursive https://github.com/ecarlson94/dotfiles.git ~/.dotfiles",
         "cd ~/.dotfiles",
         "./install-profile headless"
       ]
