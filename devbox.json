@@ -14,8 +14,8 @@
     ],
     "scripts": {
       "dotfiles": [
-        "git clone --recursive https://github.com/ecarlson94/dotfiles.git ~/.dotfiles",
-        "cd ~/.dotfiles",
+        "git clone --recursive https://github.com/ecarlson94/dotfiles.git ~/.config/dotfiles",
+        "cd ~/.config/dotfiles",
         "./install-profile headless"
       ],
       "test": [
