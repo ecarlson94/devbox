@@ -4,11 +4,19 @@ Instant, easy, and predictable base dev environment.
 
 All my core favorites, courtesy of [Devbox](https://github.com/jetpack-io/devbox).
 
-## Usage
+## Configuring Dev Environment
 
 Run the following command:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ecarlson94/devbox/main/setup.sh | bash
+```
+
+## Updating [Dotfiles](https://github.com/ecarlson94/dotfiles)
+
+Run the following command
+
+```bash
+devbox global run dotfiles
 ```
 
