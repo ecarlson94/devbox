@@ -8,3 +8,9 @@ devbox global pull https://github.com/ecarlson94/devbox.git -f
 
 # Setup dotfiles
 devbox global run dotfiles
+
+# Source devbox
+eval "$(devbox global shellenv)"
+
+# Configure ZSH as default shell
+chsh -s $(which zsh)
