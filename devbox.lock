@@ -21,6 +21,26 @@
         }
       }
     },
+    "direnv@latest": {
+      "last_modified": "2023-09-27T18:02:17Z",
+      "resolved": "github:NixOS/nixpkgs/517501bcf14ae6ec47efd6a17dda0ca8e6d866f9#direnv",
+      "source": "devbox-search",
+      "version": "2.32.3",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/g6p1w248sj71pmrx7l5g5yv5hvkpc1v6-direnv-2.32.3"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/qisbn4xnqm2frimc3vf1j2sx9inxiy7w-direnv-2.32.3"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/67mcqivirgf8f34i0y1mxwbqkr1d8zjj-direnv-2.32.3"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/bkay3lb41czmhka6isvggbdc5lk47yzx-direnv-2.32.3"
+        }
+      }
+    },
     "fd@latest": {
       "last_modified": "2023-09-27T18:02:17Z",
       "resolved": "github:NixOS/nixpkgs/517501bcf14ae6ec47efd6a17dda0ca8e6d866f9#fd",

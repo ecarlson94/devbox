@@ -6,7 +6,8 @@
     "git@latest",
     "gh@latest",
     "zsh@latest",
-    "diff-so-fancy@latest"
+    "diff-so-fancy@latest",
+    "direnv@latest"
   ],
   "shell": {
     "init_hook": [
