@@ -5,20 +5,21 @@
     "neovim@latest",
     "git@latest",
     "gh@latest",
-    "zsh@latest"
+    "zsh@latest",
+    "diff-so-fancy@latest"
   ],
   "shell": {
     "init_hook": [
       "echo 'Welcome to devbox!' > /dev/null"
     ],
     "scripts": {
-      "test": [
-        "echo \"Error: no test specified\" && exit 1"
-      ],
       "dotfiles": [
         "git clone --recursive https://github.com/ecarlson94/dotfiles.git ~/.dotfiles",
         "cd ~/.dotfiles",
         "./install-profile headless"
+      ],
+      "test": [
+        "echo \"Error: no test specified\" && exit 1"
       ]
     }
   }

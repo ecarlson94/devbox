@@ -1,6 +1,26 @@
 {
   "lockfile_version": "1",
   "packages": {
+    "diff-so-fancy@latest": {
+      "last_modified": "2023-09-27T18:02:17Z",
+      "resolved": "github:NixOS/nixpkgs/517501bcf14ae6ec47efd6a17dda0ca8e6d866f9#diff-so-fancy",
+      "source": "devbox-search",
+      "version": "1.4.4",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/99jym3a0zw0iz9sg56zaly2a1pca6ngv-diff-so-fancy-1.4.4"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/5n5qjid5137xw8w4jyfdyfj24rzdvna3-diff-so-fancy-1.4.4"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/xsbn2y2dxhif7i64akydxvfwwsqgj1ll-diff-so-fancy-1.4.4"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/xnk6kvpm4hna8v0w90whc3d6l4dr5dsf-diff-so-fancy-1.4.4"
+        }
+      }
+    },
     "fd@latest": {
       "last_modified": "2023-09-27T18:02:17Z",
       "resolved": "github:NixOS/nixpkgs/517501bcf14ae6ec47efd6a17dda0ca8e6d866f9#fd",

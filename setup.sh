@@ -13,4 +13,4 @@ devbox global run dotfiles
 eval "$(devbox global shellenv)"
 
 # Configure ZSH as default shell
-chsh -s $(which zsh)
+sudo chsh -s $(which zsh) $(whoami)
