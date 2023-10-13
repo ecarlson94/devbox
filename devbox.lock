@@ -141,6 +141,26 @@
         }
       }
     },
+    "thefuck@latest": {
+      "last_modified": "2023-09-27T18:02:17Z",
+      "resolved": "github:NixOS/nixpkgs/517501bcf14ae6ec47efd6a17dda0ca8e6d866f9#thefuck",
+      "source": "devbox-search",
+      "version": "3.32",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/n8i1irl8zqiip94qjksqk4p5swf2ypz1-thefuck-3.32"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/57h1isp50qw7qcdz9q7ang2wlysf4ngs-thefuck-3.32"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/l8jznf1k9f4nalajp2kd3pxpniwvkmjb-thefuck-3.32"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/kkdrbwabm01q8fdyr067493613npxacd-thefuck-3.32"
+        }
+      }
+    },
     "tmux@latest": {
       "last_modified": "2022-06-07T02:20:12Z",
       "resolved": "github:NixOS/nixpkgs/d23be02c22add83d28588ac164dcbac733305b04#tmux",
