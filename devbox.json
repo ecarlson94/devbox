@@ -8,7 +8,8 @@
     "zsh@latest",
     "diff-so-fancy@latest",
     "direnv@latest",
-    "tmux@latest"
+    "tmux@latest",
+    "unzip@latest"
   ],
   "shell": {
     "init_hook": [
