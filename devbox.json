@@ -9,7 +9,8 @@
     "diff-so-fancy@latest",
     "direnv@latest",
     "tmux@latest",
-    "unzip@latest"
+    "unzip@latest",
+    "fzf@latest"
   ],
   "shell": {
     "init_hook": [
