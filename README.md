@@ -29,3 +29,12 @@ devbox global run dotfiles
 This software is hereby released under an MIT License. That means you can do whatever you want with conditions only requiring preservation of copyright and license notices.
 See [LICENSE](./LICENSE) for details.
 
+## What's Installed?
+
+- [zsh](https://www.zsh.org/) - Shell
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - Text search
+- [fd](https://github.com/sharkdp/fd) - File search
+- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy-finder (wraps fd)
+- [neovim](https://github.com/neovim/neovim) - Command-line editor
+- [gh](https://github.com/cli/cli) - GitHub command-line utility
+
