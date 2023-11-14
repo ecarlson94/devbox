@@ -22,4 +22,5 @@ eval "$(devbox global shellenv --recompute)"
 devbox global run dotfiles
 
 # Configure ZSH as default shell
+command -v zsh | sudo tee -a /etc/shell
 sudo chsh -s $(which zsh) $(whoami)
