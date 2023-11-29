@@ -6,7 +6,7 @@
 
 Instant, easy, and predictable global dev environment.
 
-All my core favorites, courtesy of [Devbox](https://github.com/jetpack-io/devbox).
+All my core favorites, courtesy of [Devbox](https://github.com/jetpack-io/devbox) as a [primary package manager](https://www.jetpack.io/devbox/docs/devbox_global/).
 
 ## Configuring Dev Environment
 
