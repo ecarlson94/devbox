@@ -4,7 +4,7 @@
  <img alt="Devbox logo." src="https://raw.githubusercontent.com/jetpack-io/devbox/main/docs/app/static/img/devbox_logo_light.svg">
 </picture>
 
-Instant, easy, and predictable base dev environment.
+Instant, easy, and predictable global dev environment.
 
 All my core favorites, courtesy of [Devbox](https://github.com/jetpack-io/devbox).
 
