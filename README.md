@@ -40,3 +40,4 @@ See [LICENSE](./LICENSE) for details.
 - [zsh](https://www.zsh.org/) - Shell
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Prettier terminal diffs
 - [tmux](https://github.com/tmux/tmux/wiki) - Terminal multiplexer
+- [dotfiles](https://github.com/ecarlson94/dotfiles) - Personal dotfiles
