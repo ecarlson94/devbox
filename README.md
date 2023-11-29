@@ -38,6 +38,6 @@ See [LICENSE](./LICENSE) for details.
 - [git](https://git-scm.com/) - Source control
 - [gh](https://github.com/cli/cli) - GitHub command-line utility
 - [zsh](https://www.zsh.org/) - Shell
-- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Prettier terminal diffs
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Pretty terminal diffs
 - [tmux](https://github.com/tmux/tmux/wiki) - Terminal multiplexer
-- [dotfiles](https://github.com/ecarlson94/dotfiles) - Personal dotfiles
+- [dotfiles](https://github.com/ecarlson94/dotfiles) - Headless dotfiles profile
