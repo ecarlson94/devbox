@@ -8,6 +8,12 @@ Instant, easy, and predictable global dev environment.
 
 All my core favorites, courtesy of [Devbox](https://github.com/jetpack-io/devbox) as a [primary package manager](https://www.jetpack.io/devbox/docs/devbox_global/).
 
+This also installs the headless version of my [dotfiles](https://github.com/ecarlson94/dotfiles). Which requires the following command to be at the bottom of my rc file:
+
+```bash
+eval "$(devbox global shellenv --init-hook)"
+```
+
 ## Configuring Dev Environment
 
 Run the following command:
