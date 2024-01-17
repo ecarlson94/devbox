@@ -14,9 +14,7 @@
     "scc@latest"
   ],
   "shell": {
-    "init_hook": [
-      "echo 'Welcome to devbox!' > /dev/null"
-    ],
+    "init_hook": [],
     "scripts": {
       "dotfiles": [
         "rm -rf ~/.config/dotfiles",
