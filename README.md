@@ -46,4 +46,5 @@ See [LICENSE](./LICENSE) for details.
 - [zsh](https://www.zsh.org/) - Shell
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Pretty terminal diffs
 - [tmux](https://github.com/tmux/tmux/wiki) - Terminal multiplexer
+- [scc](https://github.com/boyter/scc) - Lines of code counter
 - [dotfiles](https://github.com/ecarlson94/dotfiles) - Headless dotfiles profile

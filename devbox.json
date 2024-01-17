@@ -10,7 +10,8 @@
     "direnv@latest",
     "tmux@latest",
     "unzip@latest",
-    "fzf@latest"
+    "fzf@latest",
+    "scc@latest"
   ],
   "shell": {
     "init_hook": [
