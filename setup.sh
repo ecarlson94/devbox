@@ -11,8 +11,8 @@ eval "$(devbox global shellenv)"
 DEVBOX_GLOBAL_PATH=~/.local/share/devbox/global/default
 DEVBOX_TEMP_PATH=/tmp/devbox
 git clone https://github.com/ecarlson94/devbox.git $DEVBOX_TEMP_PATH
-cp /tmp/devbox/devbox.json $DEVBOX_GLOBAL_PATH
-cp /tmp/devbox/devbox.lock $DEVBOX_GLOBAL_PATH
+cp $DEVBOX_TEMP_PATH/devbox.json $DEVBOX_GLOBAL_PATH
+cp $DEVBOX_TEMP_PATH/devbox.lock $DEVBOX_GLOBAL_PATH
 rm -rf $DEVBOX_TEMP_PATH
 
 # Source devbox
